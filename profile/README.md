@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![My Image](../image/1.jpg)
 <!--
 
 **Here are some ideas to get you started:**
